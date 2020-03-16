@@ -1,0 +1,9 @@
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\obj\Debug\GSR_Data_Extraction.csprojAssemblyReference.cache
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\obj\Debug\GSR_Data_Extraction.Form1.resources
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\obj\Debug\GSR_Data_Extraction.Properties.Resources.resources
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\obj\Debug\GSR_Data_Extraction.csproj.GenerateResource.cache
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\bin\Debug\GSR_Data_Extraction.exe.config
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\bin\Debug\GSR_Data_Extraction.exe
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\bin\Debug\GSR_Data_Extraction.pdb
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\obj\Debug\GSR_Data_Extraction.exe
+C:\Users\sdlga\Desktop\Dad'sResearch\GSR_Data_Extraction\GSR_Data_Extraction\obj\Debug\GSR_Data_Extraction.pdb
