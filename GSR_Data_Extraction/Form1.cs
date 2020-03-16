@@ -1,6 +1,6 @@
 ﻿/*
  * @Author: Sean Lynch
- * Developed for educational purp
+ * Developed for a research group at Suny Geneseo.
  */
  
 using System;
