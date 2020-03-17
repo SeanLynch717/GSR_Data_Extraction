@@ -98,17 +98,15 @@ namespace GSR_Data_Extraction
                     // Get a reference to the sheet that contains the data.
                     xlWorkSheetInput = (Excel.Worksheet)xlWorkBook.Worksheets.get_Item(1);
 
-                    string column = "B";
                     int row = 8;
                     int time = 0;
                     // Read data in column B starting at row 8, until there is no more data to read, indicated by a blank cell.
                     while (xlWorkSheetInput.Cells[row, 2].Text != "")
                     {
-                        double d = Double.Parse(xlWorkSheetInput.get_Range(column + row, column + row).Value2.ToString());
-                        inputData.Add(Double.Parse(xlWorkSheetInput.get_Range(column + row, column + row).Value2.ToString()));
+                        double d = Double.Parse(xlWorkSheetInput.Cells[row, 2].Text);
+                        inputData.Add(d);
                         time++;
                         row++;
-                        //Console.WriteLine(time);
                     }
                     // Overshot by one tenth of a second.
                     endTime = time - 1;
